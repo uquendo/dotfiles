@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/opt/openfoam211/etc/config'
+let g:netrw_dirhist_2='/home/nor/dev/work/poligon/cases/cfd/openfoam/case-laminar/case-amr-parallel/system'
+let g:netrw_dirhist_3='/home/nor/dev/work/poligon/bitbucket/contrib-petsc/linux-x64-cuda-release'
